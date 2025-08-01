@@ -1,5 +1,5 @@
 google-adk==0.1.0
 yfinance==0.2.65
 uuid==1.30
-google-genai==1.28.0asyncio==3.4.3
-yfinance==0.2.65
+google-genai==1.28.0
+asyncio==3.4.3
