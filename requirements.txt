@@ -3,3 +3,4 @@ yfinance==0.2.65
 uuid==1.30
 google-genai==1.28.0
 asyncio==3.4.3
+psutil==7.0.0
