@@ -27,7 +27,7 @@ async def main_async():
       user_id=USER_ID
     )
     
-    if existing_sessions and len(existing_sessions) > 0:
+    if existing_sessions and len(existing_sessions.sessions) > 0:
       SESSION_ID = existing_sessions.sessions[0].id
       print(f"Continuing existing session: {SESSION_ID}")
     else:
