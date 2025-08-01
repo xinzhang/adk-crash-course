@@ -62,3 +62,4 @@ print("=== Final Session State ===")
 for key, value in session.state.items():
     print(f"{key}: {value}")
 
+k
